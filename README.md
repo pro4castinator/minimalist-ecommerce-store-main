@@ -4,4 +4,4 @@
 * Developed search and filter options with functional components to find any product in under 1 second.
 
 
-The live site is at [minimalist-ecommerce-store.vercel.app/](https://minimalist-ecommerce-store.vercel.app/) 
+The live site is at [minimalist-ecommerce-store.vercel.app/](https://vintage-ecommerce-store-tau.vercel.app/) 
